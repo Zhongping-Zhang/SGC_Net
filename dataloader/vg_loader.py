@@ -89,7 +89,7 @@ if __name__=="__main__":
     def int_tuple(s):
         return tuple(int(i) for i in s.split(','))
 
-    def argument_parser(DATA_DIR="datasets/vg", H5_DIR="/home/grad3/zpzhang/H5_Files/vg_h5"):
+    def argument_parser(DATA_DIR="datasets/vg", H5_DIR="H5_Files/vg_h5"):
         # helps parsing the same arguments in a different script
         parser = argparse.ArgumentParser()
 
