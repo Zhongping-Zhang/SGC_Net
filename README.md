@@ -47,7 +47,7 @@ Run the following script to generated predicted bounding boxes:
 python triples2roi/generate_clevr_target_box.py
 ```
 
-Run the following script to generate masked images, which will be provided as input to the **region-based image editing** module:
+Run the following script to generate masked images, which will be provided as input to the *region-based image editing* module:
 ```sh
 python image_editing_CLEVR.py
 ```
