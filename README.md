@@ -35,7 +35,7 @@ If you would like to obtain the original data, please consider collect the data 
 
 ## Train & Evaluate SGC-Net
 ### Train and Evaluate RoI Prediction
-**Note:** In this repo, we mainly provide the code of the *RoI Prediction* module. The *region-based image editing* module is largely employed in ControlNet environment. We shall integrate the second stage later.
+**Note:** In this repo, we mainly provide the code of the *RoI Prediction* module. The *region-based image editing* module is largely employed in ControlNet environment. We haven't integrated the second stage in this repo.
 
 Run the following script to train and evaluate *RoI Prediction*:
 ```sh
