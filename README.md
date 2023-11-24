@@ -47,14 +47,12 @@ Run the following script to generated predicted bounding boxes:
 python triples2roi/generate_clevr_target_box.py
 ```
 
-
-## Acknoledgement
-This code is partially based on the [SIMSG](https://github.com/he-dhamo/simsg) repository .
-
-
-
-
 Run the following script to generate masked images, which will be provided as input to the **region-based image editing** module:
 ```sh
 python image_editing_CLEVR.py
 ```
+
+
+## Acknoledgement
+This code is partially based on the [SIMSG](https://github.com/he-dhamo/simsg) repository.
+
