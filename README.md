@@ -53,6 +53,6 @@ python image_editing_CLEVR.py
 ```
 
 
-## Acknoledgement
+## Acknowledgement
 This code is partially based on the [SIMSG](https://github.com/he-dhamo/simsg) repository.
 
